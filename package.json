@@ -1,0 +1,24 @@
+{
+  "name": "ejercicio-the-universal-data-fetcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michelle22062005/Ejercicio-The-Universal-Data-Fetcher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Michelle22062005/Ejercicio-The-Universal-Data-Fetcher/issues"
+  },
+  "homepage": "https://github.com/Michelle22062005/Ejercicio-The-Universal-Data-Fetcher#readme",
+  "devDependencies": {
+    "typescript": "^6.0.2"
+  }
+}
