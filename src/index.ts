@@ -71,7 +71,7 @@ type Usuario={
 }
 
 async function main(){
-    const usuarioService  = new ApiService<Usuario>('http://localhost:3000/api/users');
+    const usuarioService  = new ApiService<Usuario>('https://rickandmortyapi.com/api/character');
     //getAll
     usuarioService.getAll().then(res => {
     console.log("Usuarios:", res.data);   
